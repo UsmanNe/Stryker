@@ -1,0 +1,11 @@
+flask
+flask-cors
+openai
+pdfplumber
+pandas
+sqlalchemy
+python-dotenv
+pdf2image
+pillow
+pytesseract
+python-dateutil
